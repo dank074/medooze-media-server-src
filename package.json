@@ -11,5 +11,8 @@
 		"include/",
 		"ext/"
 	],
+	"publishConfig": {
+        "access": "public"
+    },
 	"repository": "https://github.com/dank074/medooze-media-server-src.git"
 }
